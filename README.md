@@ -1,4 +1,4 @@
-# INSTAGRAM-USER-ANALYTICS
+# Instagram-User-Analytics
 
 The process of tracking how users engage and interact with our digital product (software or mobile application) in order to derive business insights for marketing, product, and development teams is known as user analysis.
 Teams from across the company use these insights to decide what features to build for an app, launch a new marketing campaign, and more.
